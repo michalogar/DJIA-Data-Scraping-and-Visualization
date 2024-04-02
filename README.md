@@ -28,3 +28,6 @@ This project is aimed at scraping data from Wikipedia for tickers of all compani
 2. **Scheduling Downloads:** Use a scheduling tool to automate the execution of data scraping scripts at specific intervals. This ensures that the data is regularly updated without manual intervention.
 3. **Including Fundamental Analysis Data:** Expand the scope of the project to include fundamental analysis data such as balance sheets, income statements, and cash flows. This will provide users with comprehensive insights into the financial health of the listed companies.
 4. **Integrating Market News and Events:** Incorporate market news and events into the dashboard to provide users with context and insights into market trends and developments impacting the listed companies.
+
+## License
+This project is licensed under the MIT License.
