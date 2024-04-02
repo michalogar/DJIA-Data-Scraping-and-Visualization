@@ -14,7 +14,7 @@ This project is aimed at scraping data from Wikipedia for tickers of all compani
 - Power BI Desktop
 
 ## Instructions
-1. Run the main script (data_downloader.py) to download historical data prices and company information.
+1. Run the main script (data_downloader.py) to download historical data prices and company information. CSV files will be saved in the same folder where the Python script is located.
 2. Updating Path in Power Query in Power BI
 - Open the Power BI file (dashboard.pbix) using Power BI Desktop.
 - Go to "Home" > "Transform Data" > "Data Source Settings".
